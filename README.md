@@ -1,2 +1,4 @@
 # Mini-Login
-A mini login made in C#
+A mini login project made in C#. 
+
+Improvements to be added.
