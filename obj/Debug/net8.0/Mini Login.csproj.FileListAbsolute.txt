@@ -1,0 +1,14 @@
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\Mini Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\Mini Login.AssemblyInfoInputs.cache
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\Mini Login.AssemblyInfo.cs
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\Mini Login.csproj.CoreCompileInputs.cache
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\bin\Debug\net8.0\Mini Login.exe
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\bin\Debug\net8.0\Mini Login.deps.json
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\bin\Debug\net8.0\Mini Login.runtimeconfig.json
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\bin\Debug\net8.0\Mini Login.dll
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\bin\Debug\net8.0\Mini Login.pdb
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\Mini Login.dll
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\refint\Mini Login.dll
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\Mini Login.pdb
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\Mini Login.genruntimeconfig.cache
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\ref\Mini Login.dll
