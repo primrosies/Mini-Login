@@ -1,19 +1,23 @@
-﻿string username;
-string password;
+﻿
+// Mini Login
 
-
+string username, password;
+// Start
 Console.WriteLine("Enter an username");
-username = Console.ReadLine();
+username = Console.ReadLine() ?? "";
 
-Console.WriteLine("Enter a password (It must contain at least 8 digits): ");
-password = Console.ReadLine();
 
-if (password.Length >= 8)
+// Checks if password checks the requirements and it repeats until password >= 8
+do
 {
-    Console.WriteLine("Login successful!");
-}
+    Console.WriteLine("Enter a password (It must contain at least 8 digits): ");
+    password = Console.ReadLine() ?? "";
 
-else
-{
-    Console.WriteLine("Invalid password!");
-}
+    if (password.Length < 8)
+    {
+        Console.WriteLine("Invalid password");
+    }
+
+} while (password.Length < 8);
+
+Console.WriteLine("Login successful!");

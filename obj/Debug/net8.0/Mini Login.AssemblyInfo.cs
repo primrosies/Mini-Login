@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Login")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3c9ad3cab7599658f3ed9c6bfa9c7cafda830b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98ba018b5c57d17aa5ac8395d0217a1fb9fcd601")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Login")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Login")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

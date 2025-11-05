@@ -12,3 +12,4 @@ C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\re
 C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\Mini Login.pdb
 C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\Mini Login.genruntimeconfig.cache
 C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\ref\Mini Login.dll
+C:\Users\doush\OneDrive\Documents\SWE\Projetinhos\Mini Login\obj\Debug\net8.0\Mini Login.sourcelink.json
